@@ -1,6 +1,6 @@
 # webinar
 
-This template should help get you started developing with Vue 3 in Vite.
+Criação de um formulário com dois números que calculam sem enviar formulário!
 
 ## Recommended IDE Setup
 
